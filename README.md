@@ -1,0 +1,12 @@
+# IceCreamDataset
+Hackathon First One
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet eu odio quis consequat. Duis fringilla placerat nibh. Integer in massa vel nibh fermentum porttitor. Sed volutpat, mauris a ornare cursus, nisi felis bibendum felis, at placerat nunc augue ac nunc. Proin quis luctus ligula. Nam et vulputate mi. Cras rutrum congue felis id luctus. Praesent dui massa, tempor ut dignissim vitae, mattis nec ligula. Nam metus nunc, eleifend id pellentesque nec, hendrerit id urna.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam pretium neque at lacus pellentesque, nec malesuada quam lobortis. Proin ornare nisl consectetur faucibus lacinia. Nulla facilisi. Aenean semper ac ante et mattis. Quisque scelerisque hendrerit leo, nec mattis turpis pretium ac. Pellentesque id sapien risus. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec rhoncus libero sit amet lacinia vestibulum. Curabitur non libero commodo libero sollicitudin finibus. Praesent a feugiat metus.
+
+Mauris aliquam ligula a malesuada scelerisque. Nam porta tellus a velit malesuada, in vestibulum sapien auctor. Phasellus eget sollicitudin justo. Sed dignissim in ligula in varius. Pellentesque risus libero, cursus vitae leo quis, rhoncus lobortis enim. Morbi dignissim nulla vel ligula laoreet, venenatis tempor lorem suscipit. Integer vehicula auctor lectus, vitae rhoncus dui rutrum ac. Sed eget purus egestas, tempor turpis sit amet, volutpat erat. Phasellus id efficitur nisi.
+
+Phasellus lacinia vitae risus sit amet volutpat. Ut in bibendum metus, at viverra erat. Vivamus finibus pretium nulla, quis mollis quam sagittis et. Donec quis ornare eros, nec ornare ipsum. Curabitur maximus a ipsum ac accumsan. Quisque semper ante sit amet congue tincidunt. Nullam eu neque at diam eleifend ultricies. Integer vulputate quam at blandit blandit.
+
+Vestibulum porta porta nisl blandit dapibus. Phasellus volutpat ultricies nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu velit dignissim, fringilla tortor ut, tempor diam. Donec pulvinar blandit ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam convallis felis libero, consequat blandit urna pulvinar gravida. Etiam interdum nisi sem. Integer congue risus risus, non pellentesque tellus sollicitudin at.
