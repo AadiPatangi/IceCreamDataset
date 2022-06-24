@@ -1,4 +1,4 @@
-# IceCreamDataset
+# Iscream Project
 Hackathon First One
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet eu odio quis consequat. Duis fringilla placerat nibh. Integer in massa vel nibh fermentum porttitor. Sed volutpat, mauris a ornare cursus, nisi felis bibendum felis, at placerat nunc augue ac nunc. Proin quis luctus ligula. Nam et vulputate mi. Cras rutrum congue felis id luctus. Praesent dui massa, tempor ut dignissim vitae, mattis nec ligula. Nam metus nunc, eleifend id pellentesque nec, hendrerit id urna.
