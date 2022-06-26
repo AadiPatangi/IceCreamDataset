@@ -1,4 +1,5 @@
 # Iscream Project
+## Try it out on Kaggle: https://www.kaggle.com/code/aadipatangi/freyhacks-image-setup
 ## Inspiration
 We were inspired to build an ice-cream classifier by the theme of summer and what we appreciate most about it, a good ol' scoop of ice cream.
 
