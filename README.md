@@ -1,12 +1,19 @@
 # Iscream Project
-Hackathon First One
+## Inspiration
+We were inspired to build an ice-cream classifier by the theme of summer and what we appreciate most about it, a good ol' scoop of ice cream.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet eu odio quis consequat. Duis fringilla placerat nibh. Integer in massa vel nibh fermentum porttitor. Sed volutpat, mauris a ornare cursus, nisi felis bibendum felis, at placerat nunc augue ac nunc. Proin quis luctus ligula. Nam et vulputate mi. Cras rutrum congue felis id luctus. Praesent dui massa, tempor ut dignissim vitae, mattis nec ligula. Nam metus nunc, eleifend id pellentesque nec, hendrerit id urna.
+## What it does
+Using Tensorflow, we built a model that can classify between 4 different brands of ice cream: Häagen-Dazs, Breyers, Ben & Jerry's, and Talenti.
+## How we built it
+We built our model by creating a convolutional neural network with 3 layers - 1 Flatten and 2 dense layers. We trained it based on a dataset of ice cream images from Kaggle [https://www.kaggle.com/datasets/tysonpo/ice-cream-dataset]
+## Challenges we ran into
+Some challenges that we ran into were installing packages. For a reason that we are still unclear about, Tensorflow was not installing on our Visual Studio Code which is why we switched to Kaggle. Kaggle was sluggish and sometimes it was frustrating to wait for it to catch up.
+## Accomplishments that we're proud of
+We are proud that we created a functional neural network. We are both newbies in the field of machine learning.
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam pretium neque at lacus pellentesque, nec malesuada quam lobortis. Proin ornare nisl consectetur faucibus lacinia. Nulla facilisi. Aenean semper ac ante et mattis. Quisque scelerisque hendrerit leo, nec mattis turpis pretium ac. Pellentesque id sapien risus. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec rhoncus libero sit amet lacinia vestibulum. Curabitur non libero commodo libero sollicitudin finibus. Praesent a feugiat metus.
+## What we learned
+We learned how to build a neural network. We also learned how to properly do time management. I personally learned how to make a youtube video.
 
-Mauris aliquam ligula a malesuada scelerisque. Nam porta tellus a velit malesuada, in vestibulum sapien auctor. Phasellus eget sollicitudin justo. Sed dignissim in ligula in varius. Pellentesque risus libero, cursus vitae leo quis, rhoncus lobortis enim. Morbi dignissim nulla vel ligula laoreet, venenatis tempor lorem suscipit. Integer vehicula auctor lectus, vitae rhoncus dui rutrum ac. Sed eget purus egestas, tempor turpis sit amet, volutpat erat. Phasellus id efficitur nisi.
+## What's next for Iscream or NotCream
 
-Phasellus lacinia vitae risus sit amet volutpat. Ut in bibendum metus, at viverra erat. Vivamus finibus pretium nulla, quis mollis quam sagittis et. Donec quis ornare eros, nec ornare ipsum. Curabitur maximus a ipsum ac accumsan. Quisque semper ante sit amet congue tincidunt. Nullam eu neque at diam eleifend ultricies. Integer vulputate quam at blandit blandit.
-
-Vestibulum porta porta nisl blandit dapibus. Phasellus volutpat ultricies nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu velit dignissim, fringilla tortor ut, tempor diam. Donec pulvinar blandit ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam convallis felis libero, consequat blandit urna pulvinar gravida. Etiam interdum nisi sem. Integer congue risus risus, non pellentesque tellus sollicitudin at.
+We want to make it available on the web possibly using flask.
